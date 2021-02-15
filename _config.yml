@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "눼피샬의 갱생하는 블로그"
+title: "눼피샬의 갱생하는 블로그"
+description: "뇌피셜로 주절거리지만 오피셜을 지향하는 눼피샬"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
